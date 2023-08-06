@@ -9,6 +9,6 @@ Automating the process of colorizing the zsh prompt based on [this tutorial](htt
     ```bash
     ./colorize-pfont.sh [color | color_code]
 ## Additional Info:
-* Color codes can be found by following the link to the tutorial above. 
+* Color codes can be found [here](https://unix.stackexchange.com/questions/124407/what-color-codes-can-i-use-in-my-bash-ps1-prompt/124409#124409).
 * Green and purple are added as natural language color names by default.
 * This script is only tested on macOS.
