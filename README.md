@@ -10,5 +10,5 @@ Automating the process of colorizing the zsh prompt based on [this tutorial](htt
     ./colorize-pfont.sh [color | color_code]
 ## Additional Info:
 * Color codes can be found by following the link to the tutorial above. 
-* Green and Purple are included as natural language alias' by default.
+* Green and purple are added as natural language color names by default.
 * This script is only tested on macOS.
