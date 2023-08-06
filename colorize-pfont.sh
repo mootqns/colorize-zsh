@@ -41,5 +41,3 @@ if [ $# -eq 1 ]; then
 else
   echo "Usage: $0 [color | color_code]"
 fi
-
-exec zsh

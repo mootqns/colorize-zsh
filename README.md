@@ -8,6 +8,9 @@ Automating the process of colorizing the zsh prompt based on [this tutorial](htt
 2. Run the script with the desired color or color code:
     ```bash
     ./colorize-pfont.sh [color | color_code]
+3. Apply changes
+    ```bash
+    exec zsh
 ## Additional Info:
 * Color codes can be found by following the link to the tutorial above. 
 * Green and Purple are included as natural language alias' by default.
